@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @riccardoscut
-- 👀 I’m interested in free education
-- 🌱 I’m currently learning linux
-- 💞️ I’m looking to collaborate on building Cardano
+- 👀 I’m interested in quality education
+- 🌱 I’m currently living
+- 💞️ I’m building on Cardano
 - 📫 How to reach me https://t.me/joinchat/VsBYn9B1fUDEqGQH
 
 <!---
