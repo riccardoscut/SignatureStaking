@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @riccardoscut
-- 👀 I’m interested in quality education
-- 🌱 I’m currently living
-- 💞️ I’m building on Cardano
+- 👀 I’m interested in AI development
+- 🌱 I’m currently learning at CodeOp Academy
+- 💞️ I want to build on Cardano Blockchain
 - 📫 How to reach me https://t.me/joinchat/VsBYn9B1fUDEqGQH
 
 <!---
